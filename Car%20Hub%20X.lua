@@ -3,7 +3,7 @@ local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzH
 
 -- Criar a Janela Principal do Hub
 local Window = redzlib:MakeWindow({
-    Title = "Blox Fruits Hub",
+    Title = "Carlos Hub",
     SubTitle = "by Carlos",
     SaveFolder = "blox_fruits_hub.lua"
 })
